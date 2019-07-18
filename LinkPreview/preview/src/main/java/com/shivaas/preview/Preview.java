@@ -38,6 +38,10 @@ public class Preview {
         this.desc = desc;
     }
 
+    public Preview() {
+
+    }
+
     public Preview getPreview(final Context context, final String urll) {
 
 
