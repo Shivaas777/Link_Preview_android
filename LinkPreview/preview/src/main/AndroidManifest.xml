@@ -1,2 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shivaas.preview" />
+    package="com.shivaas.preview">
+    <uses-permission android:name="android.permission.INTERNET" ></uses-permission>
+</manifest>
